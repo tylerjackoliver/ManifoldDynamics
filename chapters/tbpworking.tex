@@ -1,0 +1,152 @@
+\section{The Circular-Restricted Three-Body Problem}
+
+TALK ABOUT REFERENCE FRAMES HERE AND GIVE DIAGRAM OF USED COORDINATE SYSTEMS
+
+
+We wish now to use this general form for $n$-body motion to determine the motion of a mass $m_3$ under the influence of two far larger masses $m_1$ and $m_2$, $m_1 > m_2$. Returning to Equation \ref{gravitation} and setting the number of particles $n=3$:
+
+\begin{equation}\label{eq:newtonian3}
+\sum F = \frac{Gm_3m_2}{r^3_{23}}\pmb{r_{23}} - \frac{Gm_3m_1}{r^3_{13}} \pmb{r_{13}} = m_3 \ddot{\pmb{r}_3}
+\end{equation}
+
+\noindent we may use a number of assumptions to simplify our analysis. Namely:
+
+\begin{itemize}
+\item We assume that, for generality, $m_1 > m_2 >> m_3$;
+\item Orbits are circular and occur about the pmbycenter of the system;
+\item Only gravitational forces act on the masses;
+\item The masses are of a sufficient size and characteristic to regard them as point masses.
+\end{itemize}
+
+
+\begin{table}
+\centering
+\begin{tabular}{l r}
+\toprule
+\toprule
+Mass parameter & $\mu = \frac{m2}{M}$ \\
+Mass of $m_2$ & $\mu$\\
+Mass of $m_1$ & $1 - \mu$\\
+Coordinates of the center of mass of $m_1$ & $\rho_1 = (-\mu, 0)$\\
+Coordinates of the center of mass of $m_2$ & $\rho_2 = (1-\mu, 0)$\\
+Gravitational constant $G$ &  $1$\\
+Angular velocity of the system & $1$\\
+Period of the two larger masses & $2\pi$\\
+\bottomrule
+\bottomrule
+\end{tabular}
+\caption{Normalisations used in the CR3BP}
+\label{tbl:normalisations}
+\end{table}
+
+\noindent Further, we normalise the system using the mass parameter $\mu$, defined as in Equation \ref{eq:massparameter}:
+
+\begin{equation}\label{eq:massparameter}
+\mu = \frac{m_2}{M}, \hspace{3pt} M = m_1 + m_2
+\end{equation}
+
+\noindent which implies the normalisations outlined in Table \ref{tbl:normalisations}. If we non-dimensionalise Equation \ref{eq:newtonian3}, we obtain Equation \ref{eq:nondimnewtonian3}.
+
+\begin{equation}\label{eq:nondimnewtonian3}
+\ddot{\pmb{r}}^i_{m_3} = -\frac{1-\mu}{r^3_{13}}\pmb{r}_{13} - \frac{\mu}{r^3_{23}} \pmb{r}_{23}
+\end{equation}
+
+\noindent Considering the inertial frame of reference, we express the velocity of $m_3$ using the rotating frame and the angular velocity:
+
+\begin{equation}
+\dot{\pmb{r}}^I_{m_3} = \pmb{r}^R_{m_3} + \omega_{I\times R} \times \pmb{r}_{m_3}
+\end{equation}
+
+\noindent recalling that $\omega_{I\times R}$ is unity, and thus $\omega_{I\times R} = \hat{\gamma} = \hat{z}$. In the inertial frame:
+
+\begin{equation}
+\dot{\pmb{r}}_{m_3} = (\dot{x} - y)\hat{x} + (x+\dot{y})\hat{y} + \omega_{I\times R} \times \pmb{r}_{m_3} = (\dot{x} - y)\hat{x} + (x+\dot{y})\hat{y} + \dot{z}\hat{z}
+\end{equation}
+
+\noindent and the derivative with respect to time yields Equation \ref{eq:timederivative}.
+
+\begin{equation}\label{eq:timederivative}
+\ddot{\pmb{r}}^i_{m_3} = (\ddot{x} - 2\dot{y} - x)\hat{x} + (\ddot{y} + 2\dot{x} - y)\hat{y} + \ddot{z}\hat{z}
+\end{equation}
+
+Equating Equations \ref{eq:nondimnewtonian3} and \ref{eq:timederivative} gives the following:
+
+\begin{equation}
+\ddot{x} - 2\dot{y} - x)\hat{x} + (\ddot{y} + 2\dot{x} - y)\hat{y} + \ddot{z}\hat{z} = -\frac{1-\mu}{r^3_{13}}\pmb{r}_{13} - \frac{\mu}{r^3_{23}} \pmb{r}_{23}
+
+\section{The Circular-Restricted Three-Body Problem}
+
+TALK ABOUT REFERENCE FRAMES HERE AND GIVE DIAGRAM OF USED COORDINATE SYSTEMS
+
+
+We wish now to use this general form for $n$-body motion to determine the motion of a mass $m_3$ under the influence of two far larger masses $m_1$ and $m_2$, $m_1 > m_2$. Returning to Equation \ref{gravitation} and setting the number of particles $n=3$:
+
+\begin{equation}\label{eq:newtonian3}
+\sum F = \frac{Gm_3m_2}{r^3_{23}}\pmb{r_{23}} - \frac{Gm_3m_1}{r^3_{13}} \pmb{r_{13}} = m_3 \ddot{\pmb{r}_3}
+\end{equation}
+
+\noindent we may use a number of assumptions to simplify our analysis. Namely:
+
+\begin{itemize}
+\item We assume that, for generality, $m_1 > m_2 >> m_3$;
+\item Orbits are circular and occur about the pmbycenter of the system;
+\item Only gravitational forces act on the masses;
+\item The masses are of a sufficient size and characteristic to regard them as point masses.
+\end{itemize}
+
+
+\begin{table}
+\centering
+\begin{tabular}{l r}
+\toprule
+\toprule
+Mass parameter & $\mu = \frac{m2}{M}$ \\
+Mass of $m_2$ & $\mu$\\
+Mass of $m_1$ & $1 - \mu$\\
+Coordinates of the center of mass of $m_1$ & $\rho_1 = (-\mu, 0)$\\
+Coordinates of the center of mass of $m_2$ & $\rho_2 = (1-\mu, 0)$\\
+Gravitational constant $G$ &  $1$\\
+Angular velocity of the system & $1$\\
+Period of the two larger masses & $2\pi$\\
+\bottomrule
+\bottomrule
+\end{tabular}
+\caption{Normalisations used in the CR3BP}
+\label{tbl:normalisations}
+\end{table}
+
+\noindent Further, we normalise the system using the mass parameter $\mu$, defined as in Equation \ref{eq:massparameter}:
+
+\begin{equation}\label{eq:massparameter}
+\mu = \frac{m_2}{M}, \hspace{3pt} M = m_1 + m_2
+\end{equation}
+
+\noindent which implies the normalisations outlined in Table \ref{tbl:normalisations}. If we non-dimensionalise Equation \ref{eq:newtonian3}, we obtain Equation \ref{eq:nondimnewtonian3}.
+
+\begin{equation}\label{eq:nondimnewtonian3}
+\ddot{\pmb{r}}^i_{m_3} = -\frac{1-\mu}{r^3_{13}}\pmb{r}_{13} - \frac{\mu}{r^3_{23}} \pmb{r}_{23}
+\end{equation}
+
+\noindent Considering the inertial frame of reference, we express the velocity of $m_3$ using the rotating frame and the angular velocity:
+
+\begin{equation}
+\dot{\pmb{r}}^I_{m_3} = \pmb{r}^R_{m_3} + \omega_{I\times R} \times \pmb{r}_{m_3}
+\end{equation}
+
+\noindent recalling that $\omega_{I\times R}$ is unity, and thus $\omega_{I\times R} = \hat{\gamma} = \hat{z}$. In the inertial frame:
+
+\begin{equation}
+\dot{\pmb{r}}_{m_3} = (\dot{x} - y)\hat{x} + (x+\dot{y})\hat{y} + \omega_{I\times R} \times \pmb{r}_{m_3} = (\dot{x} - y)\hat{x} + (x+\dot{y})\hat{y} + \dot{z}\hat{z}
+\end{equation}
+
+\noindent and the derivative with respect to time yields Equation \ref{eq:timederivative}.
+
+\begin{equation}\label{eq:timederivative}
+\ddot{\pmb{r}}^i_{m_3} = (\ddot{x} - 2\dot{y} - x)\hat{x} + (\ddot{y} + 2\dot{x} - y)\hat{y} + \ddot{z}\hat{z}
+\end{equation}
+
+Equating Equations \ref{eq:nondimnewtonian3} and \ref{eq:timederivative} gives the following:
+
+\begin{equation}
+\ddot{x} - 2\dot{y} - x)\hat{x} + (\ddot{y} + 2\dot{x} - y)\hat{y} + \ddot{z}\hat{z} = -\frac{1-\mu}{r^3_{13}}\pmb{r}_{13} - \frac{\mu}{r^3_{23}} \pmb{r}_{23}
+\end{equation}\end{equation}
