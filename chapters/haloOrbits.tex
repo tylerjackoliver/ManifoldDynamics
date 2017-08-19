@@ -7,7 +7,7 @@ PERHAPS AN INTRODUCTION TO THE NUMERICAL COMPUTATION WORK SO FAR???
 
 \section{Poincayrei maps}
 
-\section{The State Transition Matrix}
+\section{The State Transition Matrix and Floquet's Theorem}
 
 The state transition matrix is a key tool for monitoring divergent dynamics through a trajectory. For the purposes of the construction of orbital transfers, it has the following uses:
 
@@ -79,7 +79,21 @@ where $\Phi \left(t, t_0 \right)$ implies the state transition matrix propagated
 
 \noindent which represents 36 first order differential equations for iteration through the orbit propagation\footnote{These equations are also known as the variational equations}. The initial conditions for Equation \ref{eq:finishedstatematrixeq} are provided by a $6\times 6$ identity matrix.
 
-\subsection{The Monodromy Matrix and Floquet's Theorem}
+As an aside, note that the state transition matrix results in the following form of first order differential equation:
+
+\begin{equation}
+\dot{x} = A(t) x
+\end{equation}
+
+which allows us to apply Floquet theory, provided that A(t) is piecewise continuous, giving us a canonical form for each of the fundamental matrix solutions. \citep{Floquet1883} reads that, where $\psi (t)$ is a fundamental solution of the differential equation, then for $t \in \mathbb{R}$,
+
+\begin{equation}
+\psi(t+T) = \psi(t)\psi^{-1}(0)\psi(T)
+\end{equation}
+
+where $\psi^{-1}\psi{T}$ is the monodromy matrix.
+
+\subsection{The Monodromy Matrix}
 
 A special case of the state transition matrix, the monodromy matrix provides a determination of the stability of a periodic orbit \citep{Russell2006}; for an unstable orbit, the monodromy matrix yields at least one eigenvalue outside the unit circle. In the CR3BP, the monodromy matrix typically contains 6 eigenvalues occurring in reciprocal pairs \citep{broucke1968}, $\lambda_i$, $i = 1, 2, ..., 6$, corresponding to six eigenvectors $\pmb{v}_i$. These eigenvalues are roots of a characteristic equation, with a characteristic exponent $e^{\alpha T}$, where $T$ is the period of the orbit\footnote{This exponent is sometimes referred to as the Lyapunov characteristic exponent.}. The computation of the eigenvalue reveals the stability of the periodic orbit under a perturbation; referring to Table \ref{table:eigenvalues}:
 
