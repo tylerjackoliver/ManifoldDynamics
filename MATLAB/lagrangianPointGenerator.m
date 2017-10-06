@@ -5,7 +5,7 @@
 %	References: Henon, Exploration of the Restricted Problem IV; Halo orbit design for ISEE-3, Richardson.
 %
 
-function lPos = lagrangianPointGenerator(massParameter, lNum)
+function eqPos = lagrangianPointGenerator(massParameter, lNum)
 
 	m1 = 1-massParameter;
 	m2 = massParameter;
@@ -19,6 +19,6 @@ function lPos = lagrangianPointGenerator(massParameter, lNum)
 
 	% Return the position we're after
 
-	eqPos = lPos(eqNum, :);
+	eqPos = lPos(lNum, :);
 
 end

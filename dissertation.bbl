@@ -1,0 +1,94 @@
+\begin{thebibliography}{}
+
+\bibitem[Belbruno, 2004]{Belbruno2004}
+Belbruno, E. (2004).
+\newblock {\em {Capture Dynamics and Chaotic Motions in Celestial Mechanics}}.
+\newblock Princeton University Press.
+
+\bibitem[Belbruno and Miller, 1993]{Belbruno1993}
+Belbruno, E. and Miller, J. (1993).
+\newblock {Sun-perturbed Earth-to-moon transfers with ballistic capture}.
+\newblock {\em Journal of Guidance Control and Dynamics 16}.
+
+\bibitem[{Broucke}, 1968]{broucke1968}
+{Broucke}, R.~A. (1968).
+\newblock {\em {Periodic orbits in the restricted three-body problem with
+  earth-moon masses}}.
+
+\bibitem[Curtis, 2010]{Curtis2009}
+Curtis, H.~D. (2010).
+\newblock {\em {Orbital Mechanics for Engineering Students}}.
+\newblock Elsevier, Oxford, 2nd edition.
+
+\bibitem[Euler, 1736]{Euler1736}
+Euler, L. (1736).
+\newblock {\em {Mechanica sive motus scientia analytice exposita}}.
+
+\bibitem[Floquet, 1883]{Floquet1883}
+Floquet, G. (1883).
+\newblock Sur les équations différentielles linéaires à coefficients
+  périodiques.
+\newblock {\em Annales scientifiques de l'École Normale Supérieure},
+  12:47--88.
+
+\bibitem[Heath and Euclid, 1956]{euclid}
+Heath, T.~L. and Euclid (1956).
+\newblock {\em The Thirteen Books of Euclid's Elements, Books 1 and 2}.
+\newblock Dover Publications, Incorporated.
+
+\bibitem[Hill, 1906]{Hill1906}
+Hill, G. (1906).
+\newblock {\em {Collected Mathematical Works}}.
+
+\bibitem[Howell et~al., 1997]{Howell1997}
+Howell, K., Barden, B.~T., and Wilson, R.~S. (1997).
+\newblock {Trajectory design using a dynamical systems approach with
+  applications to GENESIS}.
+\newblock In {\em AIAA Special Astrodynamics Conference}, page~33, Sun Valley,
+  Idaho. AAS Publications Office.
+
+\bibitem[Jacobi, 1829]{Jacobi1829}
+Jacobi, C. G.~J. (1829).
+\newblock {Fundamenta Nova Theoriae Functionum Ellipticarum}.
+\newblock {\em Regiomonti, Sumtibus fratrum Borntr$\backslash$"ager}, page 189.
+
+\bibitem[Mains, 1993]{Mains1993}
+Mains, D.~L. (1993).
+\newblock {\em {Transfer trajectories from Earth parking orbits to L1 halo
+  points.pdf}}.
+\newblock PhD thesis, Purdue University.
+
+\bibitem[Parker and Anderson, 2014]{Parker2014}
+Parker, J.~S. and Anderson, R.~L. (2014).
+\newblock {Low-Energy Lunar Trajectory Design}.
+\newblock {\em Low-Energy Lunar Trajectory Design}, (July):1--396.
+
+\bibitem[Poincar{\'{e}}, 1899]{Poincare1899}
+Poincar{\'{e}}, H. (1899).
+\newblock {\em {Les M{\'{e}}thodes Nouvelles de la M{\'{e}}canique
+  C{\'{e}}leste}}.
+\newblock Gauthier-Villars.
+
+\bibitem[Richardson, 1980]{Richardson1980}
+Richardson, D.~L. (1980).
+\newblock {Halo Orbit Formulation for the ISEE-3 Mission}.
+\newblock 3(6):543--548.
+
+\bibitem[Russell, 2006]{Russell2006}
+Russell, R.~P. (2006).
+\newblock {Global search for planar and three-dimensional periodic orbits near
+  Europa}.
+\newblock {\em The Journal of the Astronautical Sciences}, 54(2):199--226.
+
+\bibitem[Szebehely, 1967]{theoryoforbits}
+Szebehely, V.~G. (1967).
+\newblock {\em Theory of Orbits - The Restricted Problem of Three Bodies}.
+\newblock Academic Press.
+
+\bibitem[Vicens, 2016]{Vicens2016}
+Vicens, J.~R. (2016).
+\newblock {\em {Regularization in Astrodynamics : applications to relative
+  motion, low-thrust missions, and orbit propagation}}.
+\newblock PhD thesis, Universidad Politecnica de Madrid.
+
+\end{thebibliography}

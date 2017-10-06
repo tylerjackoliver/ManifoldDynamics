@@ -1,0 +1,10 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces The transfer trajectory of NASA's GRAIL spacecraft in the ICRF/J2000 frame. Ephemeris supplied by JPL.\relax }}{7}{figure.caption.5}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Rotating co-ordinate system used in the formulation of the governing equations of motion in the three-body problem.\relax }}{11}{figure.2.1}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces The pseudo-potential in the Earth-Moon system for $\mu $ = 6\relax }}{13}{figure.caption.7}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Forbidden regions in the Earth-Moon system for different values of the Jacobi constant; the forbidden regions are shaded in grey; the value of $C = 3.92$, where the inner and outer regions have just become available to the particle, are of the most interest.\relax }}{15}{figure.caption.8}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Software system architecture for the construction of a periodic orbit about a Lagrangian point.\relax }}{23}{figure.caption.10}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Differential correction software flow diagram\relax }}{25}{figure.caption.11}
+\addvspace {10\p@ }

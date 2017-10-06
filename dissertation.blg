@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: dissertation.aux
+A level-1 auxiliary file: chapters/costOfAccess.aux
+A level-1 auxiliary file: chapters/TBPIntro.aux
+A level-1 auxiliary file: chapters/haloOrbits.aux
+A level-1 auxiliary file: chapters/introductionToManifolds.aux
+A level-1 auxiliary file: chapters/appendixA.aux
+The style file: apalike.bst
+Database file #1: bibliography_5-6-17.bib
+Warning--empty publisher in broucke1968
+Warning--empty publisher in Euler1736
+Warning--empty publisher in Hill1906
+Warning--there's a number but no volume in Parker2014
+Warning--empty journal in Richardson1980
+You've used 17 entries,
+            1935 wiz_defined-function locations,
+            591 strings with 6320 characters,
+and the built_in function-call counts, 5339 in all, are:
+= -- 513
+> -- 148
+< -- 18
++ -- 46
+- -- 44
+* -- 389
+:= -- 960
+add.period$ -- 49
+call.type$ -- 17
+change.case$ -- 98
+chr.to.int$ -- 17
+cite$ -- 22
+duplicate$ -- 249
+empty$ -- 412
+format.name$ -- 67
+if$ -- 1047
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 23
+newline$ -- 85
+num.names$ -- 51
+pop$ -- 113
+preamble$ -- 1
+purify$ -- 107
+quote$ -- 0
+skip$ -- 187
+stack$ -- 0
+substring$ -- 300
+swap$ -- 28
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 86
+warning$ -- 5
+while$ -- 43
+width$ -- 0
+write$ -- 211
+(There were 5 warnings)

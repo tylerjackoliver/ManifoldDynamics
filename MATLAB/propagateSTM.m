@@ -11,8 +11,8 @@ function [x, t, phi, PHI] = propagateSTM(x0, t, massParameter, options, fixed_st
 	
 	global mu
 	mu = massParameter;
-	dimension = length(x0)	% Grab the number of dimensions for the propagation from the inital conditions
-	governingEquations = 'variationalEquations.m';	% Set the model for the governing equations
+	dimension = length(x0);	% Grab the number of dimensions for the propagation from the inital conditions
+	governingEquations = 'variationalEquations';	% Set the model for the governing equations
 	phi_0(1:dimension^2) = reshape(eye(dimension), dimension^2, 1);	% Initialise STM matrix
 	phi_0(1+dimension^2:dimension+dimension^2) = x0; 	% Append state matrix to end of state transition matrix	
 	

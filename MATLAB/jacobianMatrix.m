@@ -1,7 +1,7 @@
 % Jacobian matrix for the state transition matrix for CR3BP
 % Parameters: state, mass parameter
 
-function A = variationalEquations(x, mu)
+function A = jacobianMatrix(x, mu)
 	
 	m1 = 1-mu;
 	m2 = mu;
@@ -14,10 +14,10 @@ function A = variationalEquations(x, mu)
 	r23_32 = r23^1.5;
 	r23_52 = r23^2.5;
 
-	uxx = -1+(m1/r13_32)*(1-(3*(x(1)+m2)^2/r13))+(mu2/r23_32)*(1-(3*(x(1)-m1)^2/r23));	% Three double derivatives
-	uyy = -1+(m1/r13_32)*(1-(3*x(2^2/r13))+(m2/r23_32)*(1-(3*x(2)^2/r23));
-	uxy =  -(mu1/r13_52)*3*x(2)*(x(1)+m2)-(m2/r23_52)*3*x(2)*(x(1)-m1);
+	uxx = -1+(m1/r13_32)*(1-(3*(x(1)+m2)^2/r13))+(m2/r23_32)*(1-(3*(x(1)-m1)^2/r23));	% Three double derivatives
+	uyy = -1+(m1/r13_32)*(1-(3*x(2)^2/r13))+(m2/r23_32)*(1-(3*x(2)^2/r23));
+	uxy =  -(m1/r13_52)*3*x(2)*(x(1)+m2)-(m2/r23_52)*3*x(2)*(x(1)-m1);
 
-	A = [0 0 1 0; 0 0 0 1; -uxx -uxy 0 2; -uxxy -uyy -2 0];					% Jacobian matrix
+	A = [0 0 1 0; 0 0 0 1; -uxx -uxy 0 2; -uxy -uyy -2 0];					% Jacobian matrix
 end
 

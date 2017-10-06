@@ -1,0 +1,19 @@
+\contentsline {chapter}{\numberline {1}The Cost of Access to Space}{6}{chapter.1}
+\contentsline {chapter}{\numberline {2}An Introduction to the Three-body Problem}{8}{chapter.2}
+\contentsline {section}{\numberline {2.1}The Newtonian n-body problem}{9}{section.2.1}
+\contentsline {subsubsection}{Algebraic Integrals of the Newtonian $n$-body Problem}{10}{equation.2.1.5}
+\contentsline {section}{\numberline {2.2}The Circular-Restricted Three-Body Problem}{11}{section.2.2}
+\contentsline {subsubsection}{The Jacobi Constant}{14}{figure.caption.7}
+\contentsline {section}{\numberline {2.3}Forbidden Regions}{14}{section.2.3}
+\contentsline {section}{\numberline {2.4}Simplified Motion around the Lagrangian Points}{16}{section.2.4}
+\contentsline {chapter}{\numberline {3}Numerical Computation of Motion about the Lagrange Points}{18}{chapter.3}
+\contentsline {section}{\numberline {3.1}Poincayrei maps}{18}{section.3.1}
+\contentsline {section}{\numberline {3.2}The State Transition Matrix and Floquet's Theorem}{18}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}The Monodromy Matrix}{20}{subsection.3.2.1}
+\contentsline {section}{\numberline {3.3}Differential Correction}{21}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Single-shooting}{21}{subsection.3.3.1}
+\contentsline {section}{\numberline {3.4}Construction of a Periodic Orbit using Differential Correction}{21}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Establishing the differential correction routines}{21}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Implementation of the techniques for orbit construction}{23}{subsection.3.4.2}
+\contentsline {chapter}{\numberline {4}Introduction to Manifold Structures}{26}{chapter.4}
+\contentsline {chapter}{References}{27}{chapter*.12}
