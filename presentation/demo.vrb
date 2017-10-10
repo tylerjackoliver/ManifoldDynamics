@@ -1,9 +1,9 @@
-\frametitle{Backup slides}
-Sometimes, it is useful to add slides at the end of your presentation to
-  refer to during audience questions.
+\frametitle{Introduction to Manifolds}
+\small If we integrate orbits that exponentially approach and depart a certain periodic orbit in the CR3BP, we discover manifold tubes...
+^^I\begin{figure}
+^^I^^I\centering
+^^I^^I\includegraphics[height=.4\textheight]{manifolds}
+^^I^^I\caption{\small Stable (green) and unstable (red) invariant manifolds associated to Earth-Moon L1. Source: Renkli Seyler, \url{https://renklisheyler.wordpress.com/research/motions-in-cr3bp/invariant-manifold-tubes/}}
+^^I\end{figure}
+^^I\small ...exploiting these dynamical phenomena can give rise to interesting applications
 
-  The best way to do this is to include the \verb|appendixnumberbeamer|
-  package in your preamble and call \verb|\appendix| before your backup slides.
-
-  \themename will automatically turn off slide numbering and progress bars for
-  slides in the appendix.
