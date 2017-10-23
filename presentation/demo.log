@@ -1,8 +1,8 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.8.25)  10 OCT 2017 12:01
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.8.25)  17 OCT 2017 10:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**demo.tex presentation.pdf
+**demo
 (./demo.tex
 LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
@@ -1434,7 +1434,66 @@ teplot.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfcalendar.code.tex
 File: pgfcalendar.code.tex 2007/07/23 v3.0.1a (rcs-revision 1.11)
 \pgfcalendarcurrentjulian=\count348
-))) (/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+))) (/usr/share/texlive/texmf-dist/tex/latex/pgfgantt/pgfgantt.sty
+Package: pgfgantt 2013/06/01 v4.0 Draw Gantt diagrams with TikZ
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.
+tex
+File: pgflibraryarrows.code.tex 2013/09/23 v3.0.1a (rcs-revision 1.16)
+\arrowsize=\dimen320
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarybackgrounds.code.tex
+File: tikzlibrarybackgrounds.code.tex 2013/07/18 v3.0.1a (rcs-revision 1.3)
+\pgf@layerbox@background=\box77
+\pgf@layerboxsaved@background=\box78
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2013/07/15 v3.0.1a (rcs-revision 1.9)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarypatterns.code.tex
+File: tikzlibrarypatterns.code.tex 2008/01/15 v3.0.1a (rcs-revision 1.2)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibrarypatterns.cod
+e.tex
+File: pgflibrarypatterns.code.tex 2008/03/03 v3.0.1a (rcs-revision 1.13)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshape
+s.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2008/06/26 v3.0.1a (rcs-revision 1.1)
+
+))
+\gtt@currentline=\count349
+\gtt@lasttitleline=\count350
+\gtt@currgrid=\count351
+\gtt@chartwidth=\count352
+\gtt@lasttitleslot=\count353
+\gtt@elementid=\count354
+\gtt@today@slot=\count355
+\gtt@startjulian=\count356
+\gtt@endjulian=\count357
+\gtt@calendar@slots=\count358
+\gtt@calendar@weeknumber=\count359
+\gtt@calendar@startofweek=\count360
+\gtt@left@slot=\count361
+\gtt@right@slot=\count362
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/beamertheme-metropolis/pgfplotsthemeto
@@ -1444,30 +1503,30 @@ echnical note
 ) (./demo.aux)
 \openout1 = `demo.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 23.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 25.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 25.
  (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    ... okay on input line 25.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1504,8 +1563,8 @@ LaTeX Font Info:    ... okay on input line 23.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box77
-Package hyperref Info: Link coloring OFF on input line 23.
+\AtBeginShipoutBox=\box79
+Package hyperref Info: Link coloring OFF on input line 25.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1513,58 +1572,58 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count349
+\c@section@level=\count363
 )
-LaTeX Info: Redefining \ref on input line 23.
-LaTeX Info: Redefining \pageref on input line 23.
-LaTeX Info: Redefining \nameref on input line 23.
+LaTeX Info: Redefining \ref on input line 25.
+LaTeX Info: Redefining \pageref on input line 25.
+LaTeX Info: Redefining \nameref on input line 25.
 
 (./demo.out) (./demo.out)
 \@outlinefile=\write5
 \openout5 = `demo.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 23.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 25.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 23.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 25.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> EU1/lmr/m/n on input line 23.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 23.
+(Font)                  OT1/cmss/m/n --> EU1/lmr/m/n on input line 25.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> EU1/lmss/bx/n on input line 23.
+(Font)                  OT1/cmr/bx/n --> EU1/lmss/bx/n on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> EU1/lmss/bx/n on input line 23.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 23.
+(Font)                  OT1/cmr/bx/n --> EU1/lmss/bx/n on input line 25.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 23.
+(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> EU1/lmss/m/n on input line 23.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 23.
+(Font)                  OT1/cmss/bx/n --> EU1/lmss/m/n on input line 25.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> EU1/lmss/m/it on input line 23.
+(Font)                  OT1/cmr/m/it --> EU1/lmss/m/it on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> EU1/lmss/m/it on input line 23.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 23.
+(Font)                  OT1/cmr/bx/it --> EU1/lmss/m/it on input line 25.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 23.
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 23.
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 25.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  EU1/lmss/m/n --> EU1/lmss/bx/n on input line 23.
+(Font)                  EU1/lmss/m/n --> EU1/lmss/bx/n on input line 25.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  EU1/lmss/m/it --> EU1/lmss/bx/it on input line 23.
+(Font)                  EU1/lmss/m/it --> EU1/lmss/bx/it on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> EU1/lmr/bx/n on input line 23.
+(Font)                  OT1/cmss/bx/n --> EU1/lmr/bx/n on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  EU1/lmss/bx/n --> EU1/lmss/bx/n on input line 23.
+(Font)                  EU1/lmss/bx/n --> EU1/lmss/bx/n on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  EU1/lmss/m/n --> EU1/lmss/bx/n on input line 23.
+(Font)                  EU1/lmss/m/n --> EU1/lmss/bx/n on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  EU1/lmss/m/it --> EU1/lmss/bx/it on input line 23.
+(Font)                  EU1/lmss/m/it --> EU1/lmss/bx/it on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  EU1/lmtt/m/n --> EU1/lmtt/bx/n on input line 23.
+(Font)                  EU1/lmtt/m/n --> EU1/lmtt/bx/n on input line 25.
 
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-bas
 ic-dictionary/translator-basic-dictionary-English.dict
@@ -1590,55 +1649,103 @@ Dictionary: translator-numbers-dictionary, Language: English
 orem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 23.
+LaTeX Info: Redefining \includegraphics on input line 25.
 
 Package pgfplots notification 'compat/show suggested version=true': you might b
 enefit from \pgfplotsset{compat=1.13} (current compat level: 1.9).
 
 (./demo.nav)
-Overfull \vbox (13.79993pt too high) detected at line 25
+Overfull \vbox (13.79993pt too high) detected at line 27
  []
 
 [1
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 32.
+LaTeX Font Info:    Font shape `EU1/lmss/m/it' in size <10> not available
+(Font)              Font shape `EU1/lmss/m/sl' tried instead on input line 70.
+LaTeX Font Info:    Try loading font information for U+msa on input line 70.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 32.
+LaTeX Font Info:    Try loading font information for U+msb on input line 70.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Font shape `EU1/lmss/m/it' in size <10> not available
-(Font)              Font shape `EU1/lmss/m/sl' tried instead on input line 32.
 LaTeX Font Info:    Font shape `EU1/lmss/m/it' in size <7> not available
-(Font)              Font shape `EU1/lmss/m/sl' tried instead on input line 32.
+(Font)              Font shape `EU1/lmss/m/sl' tried instead on input line 70.
 LaTeX Font Info:    Font shape `EU1/lmss/m/it' in size <5> not available
-(Font)              Font shape `EU1/lmss/m/sl' tried instead on input line 32.
- [2
-
-]
+(Font)              Font shape `EU1/lmss/m/sl' tried instead on input line 70.
 LaTeX Font Info:    Font shape `EU1/lmss/m/it' in size <9> not available
-(Font)              Font shape `EU1/lmss/m/sl' tried instead on input line 69.
+(Font)              Font shape `EU1/lmss/m/sl' tried instead on input line 70.
 LaTeX Font Info:    Font shape `EU1/lmss/m/it' in size <6> not available
-(Font)              Font shape `EU1/lmss/m/sl' tried instead on input line 69.
+(Font)              Font shape `EU1/lmss/m/sl' tried instead on input line 70.
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 69--69
+Overfull \hbox (0.4pt too wide) in paragraph at lines 70--70
 [][]  
  []
 
 
-Overfull \vbox (28.06833pt too high) detected at line 69
+Overfull \vbox (28.06833pt too high) detected at line 70
  []
 
-[3
+[2
 
 ]
 \openout4 = `demo.vrb'.
 
  (./demo.vrb
+File: manifolds.png Graphic file (type QTm)
+ <use  "manifolds.png" >
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 6.
+
+(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmtt.fd
+File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+Overfull \hbox (0.4pt too wide) in paragraph at lines 104--104
+[][]  
+ []
+
+[3
+
+]
+File: neo_retrieval.png Graphic file (type QTm)
+ <use  "neo_retrieval.png" >
+Overfull \hbox (0.4pt too wide) in paragraph at lines 112--112
+[][]  
+ []
+
+[4
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 139--139
+[][]  
+ []
+
+[5
+
+]
+Overfull \hbox (0.4pt too wide) in paragraph at lines 148--148
+[][]  
+ []
+
+[6
+
+]
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+
+Overfull \hbox (0.4pt too wide) in paragraph at lines 189--189
+[][]  
+ []
+
+[7
+
+]
 File: gif/manifolds-0.png Graphic file (type QTm)
  <use  "gif/manifolds-0.png" >
 File: gif/manifolds-1.png Graphic file (type QTm)
@@ -2465,756 +2572,38 @@ File: gif/manifolds-329.png Graphic file (type QTm)
  <use  "gif/manifolds-329.png" >
 File: gif/manifolds-330.png Graphic file (type QTm)
 
-<use  "gif/manifolds-330.png" >)
-Overfull \hbox (0.4pt too wide) in paragraph at lines 84--84
+<use  "gif/manifolds-330.png" >
+Overfull \hbox (0.4pt too wide) in paragraph at lines 201--201
 [][]  
- []
-
-[4
-
-]
-\openout4 = `demo.vrb'.
-
- (./demo.vrb
-File: manifolds.png Graphic file (type QTm)
- <use  "manifolds.png" >
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 6.
-
-(/usr/share/texlive/texmf-dist/tex/latex/euenc/eu1lmtt.fd
-File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-))
-Overfull \hbox (0.4pt too wide) in paragraph at lines 94--94
-[][]  
- []
-
-[5
-
-]
-File: neo_retrieval.png Graphic file (type QTm)
- <use  "neo_retrieval.png" >
-Overfull \hbox (0.4pt too wide) in paragraph at lines 102--102
-[][]  
- []
-
-
-Overfull \vbox (1.75159pt too high) detected at line 102
- []
-
-[6
-
-]
-File: interplanetary.png Graphic file (type QTm)
- <use  "interplanetary.png" >
-Overfull \hbox (0.4pt too wide) in paragraph at lines 110--110
-[][]  
- []
-
-[7
-
-]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 118--118
-[][]  
- []
-
-
-Overfull \vbox (4.80072pt too high) detected at line 118
  []
 
 [8
 
-]
-Overfull \hbox (0.4pt too wide) in paragraph at lines 128--128
+] (./demo.bbl
+File: beamericonarticle.pdf Graphic file (type QTm)
+ <use  "beamericonarticle.pdf" >
+File: beamericonarticle.pdf Graphic file (type QTm)
+
+<use  "beamericonarticle.pdf" >
+File: beamericonarticle.pdf Graphic file (type QTm)
+ <use  "beamericonarticle.pdf" >)
+Overfull \hbox (0.4pt too wide) in paragraph at lines 206--206
 [][]  
  []
 
 [9
 
 ]
-File: gif/final_try-0.jpg Graphic file (type QTm)
- <use  "gif/final_try-0.jpg" >
-File: gif/final_try-1.jpg Graphic file (type QTm)
- <use  "gif/final_try-1.jpg" >
-File: gif/final_try-2.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-2.jpg" >
-File: gif/final_try-3.jpg Graphic file (type QTm)
- <use  "gif/final_try-3.jpg" >
-File: gif/final_try-4.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-4.jpg" >
-File: gif/final_try-5.jpg Graphic file (type QTm)
- <use  "gif/final_try-5.jpg" >
-File: gif/final_try-6.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-6.jpg" >
-File: gif/final_try-7.jpg Graphic file (type QTm)
- <use  "gif/final_try-7.jpg" >
-File: gif/final_try-8.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-8.jpg" >
-File: gif/final_try-9.jpg Graphic file (type QTm)
- <use  "gif/final_try-9.jpg" >
-File: gif/final_try-10.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-10.jpg" >
-File: gif/final_try-11.jpg Graphic file (type QTm)
- <use  "gif/final_try-11.jpg" >
-File: gif/final_try-12.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-12.jpg" >
-File: gif/final_try-13.jpg Graphic file (type QTm)
- <use  "gif/final_try-13.jpg" >
-File: gif/final_try-14.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-14.jpg" >
-File: gif/final_try-15.jpg Graphic file (type QTm)
- <use  "gif/final_try-15.jpg" >
-File: gif/final_try-16.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-16.jpg" >
-File: gif/final_try-17.jpg Graphic file (type QTm)
- <use  "gif/final_try-17.jpg" >
-File: gif/final_try-18.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-18.jpg" >
-File: gif/final_try-19.jpg Graphic file (type QTm)
- <use  "gif/final_try-19.jpg" >
-File: gif/final_try-20.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-20.jpg" >
-File: gif/final_try-21.jpg Graphic file (type QTm)
- <use  "gif/final_try-21.jpg" >
-File: gif/final_try-22.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-22.jpg" >
-File: gif/final_try-23.jpg Graphic file (type QTm)
- <use  "gif/final_try-23.jpg" >
-File: gif/final_try-24.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-24.jpg" >
-File: gif/final_try-25.jpg Graphic file (type QTm)
- <use  "gif/final_try-25.jpg" >
-File: gif/final_try-26.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-26.jpg" >
-File: gif/final_try-27.jpg Graphic file (type QTm)
- <use  "gif/final_try-27.jpg" >
-File: gif/final_try-28.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-28.jpg" >
-File: gif/final_try-29.jpg Graphic file (type QTm)
- <use  "gif/final_try-29.jpg" >
-File: gif/final_try-30.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-30.jpg" >
-File: gif/final_try-31.jpg Graphic file (type QTm)
- <use  "gif/final_try-31.jpg" >
-File: gif/final_try-32.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-32.jpg" >
-File: gif/final_try-33.jpg Graphic file (type QTm)
- <use  "gif/final_try-33.jpg" >
-File: gif/final_try-34.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-34.jpg" >
-File: gif/final_try-35.jpg Graphic file (type QTm)
- <use  "gif/final_try-35.jpg" >
-File: gif/final_try-36.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-36.jpg" >
-File: gif/final_try-37.jpg Graphic file (type QTm)
- <use  "gif/final_try-37.jpg" >
-File: gif/final_try-38.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-38.jpg" >
-File: gif/final_try-39.jpg Graphic file (type QTm)
- <use  "gif/final_try-39.jpg" >
-File: gif/final_try-40.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-40.jpg" >
-File: gif/final_try-41.jpg Graphic file (type QTm)
- <use  "gif/final_try-41.jpg" >
-File: gif/final_try-42.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-42.jpg" >
-File: gif/final_try-43.jpg Graphic file (type QTm)
- <use  "gif/final_try-43.jpg" >
-File: gif/final_try-44.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-44.jpg" >
-File: gif/final_try-45.jpg Graphic file (type QTm)
- <use  "gif/final_try-45.jpg" >
-File: gif/final_try-46.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-46.jpg" >
-File: gif/final_try-47.jpg Graphic file (type QTm)
- <use  "gif/final_try-47.jpg" >
-File: gif/final_try-48.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-48.jpg" >
-File: gif/final_try-49.jpg Graphic file (type QTm)
- <use  "gif/final_try-49.jpg" >
-File: gif/final_try-50.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-50.jpg" >
-File: gif/final_try-51.jpg Graphic file (type QTm)
- <use  "gif/final_try-51.jpg" >
-File: gif/final_try-52.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-52.jpg" >
-File: gif/final_try-53.jpg Graphic file (type QTm)
- <use  "gif/final_try-53.jpg" >
-File: gif/final_try-54.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-54.jpg" >
-File: gif/final_try-55.jpg Graphic file (type QTm)
- <use  "gif/final_try-55.jpg" >
-File: gif/final_try-56.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-56.jpg" >
-File: gif/final_try-57.jpg Graphic file (type QTm)
- <use  "gif/final_try-57.jpg" >
-File: gif/final_try-58.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-58.jpg" >
-File: gif/final_try-59.jpg Graphic file (type QTm)
- <use  "gif/final_try-59.jpg" >
-File: gif/final_try-60.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-60.jpg" >
-File: gif/final_try-61.jpg Graphic file (type QTm)
- <use  "gif/final_try-61.jpg" >
-File: gif/final_try-62.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-62.jpg" >
-File: gif/final_try-63.jpg Graphic file (type QTm)
- <use  "gif/final_try-63.jpg" >
-File: gif/final_try-64.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-64.jpg" >
-File: gif/final_try-65.jpg Graphic file (type QTm)
- <use  "gif/final_try-65.jpg" >
-File: gif/final_try-66.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-66.jpg" >
-File: gif/final_try-67.jpg Graphic file (type QTm)
- <use  "gif/final_try-67.jpg" >
-File: gif/final_try-68.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-68.jpg" >
-File: gif/final_try-69.jpg Graphic file (type QTm)
- <use  "gif/final_try-69.jpg" >
-File: gif/final_try-70.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-70.jpg" >
-File: gif/final_try-71.jpg Graphic file (type QTm)
- <use  "gif/final_try-71.jpg" >
-File: gif/final_try-72.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-72.jpg" >
-File: gif/final_try-73.jpg Graphic file (type QTm)
- <use  "gif/final_try-73.jpg" >
-File: gif/final_try-74.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-74.jpg" >
-File: gif/final_try-75.jpg Graphic file (type QTm)
- <use  "gif/final_try-75.jpg" >
-File: gif/final_try-76.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-76.jpg" >
-File: gif/final_try-77.jpg Graphic file (type QTm)
- <use  "gif/final_try-77.jpg" >
-File: gif/final_try-78.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-78.jpg" >
-File: gif/final_try-79.jpg Graphic file (type QTm)
- <use  "gif/final_try-79.jpg" >
-File: gif/final_try-80.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-80.jpg" >
-File: gif/final_try-81.jpg Graphic file (type QTm)
- <use  "gif/final_try-81.jpg" >
-File: gif/final_try-82.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-82.jpg" >
-File: gif/final_try-83.jpg Graphic file (type QTm)
- <use  "gif/final_try-83.jpg" >
-File: gif/final_try-84.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-84.jpg" >
-File: gif/final_try-85.jpg Graphic file (type QTm)
- <use  "gif/final_try-85.jpg" >
-File: gif/final_try-86.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-86.jpg" >
-File: gif/final_try-87.jpg Graphic file (type QTm)
- <use  "gif/final_try-87.jpg" >
-File: gif/final_try-88.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-88.jpg" >
-File: gif/final_try-89.jpg Graphic file (type QTm)
- <use  "gif/final_try-89.jpg" >
-File: gif/final_try-90.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-90.jpg" >
-File: gif/final_try-91.jpg Graphic file (type QTm)
- <use  "gif/final_try-91.jpg" >
-File: gif/final_try-92.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-92.jpg" >
-File: gif/final_try-93.jpg Graphic file (type QTm)
- <use  "gif/final_try-93.jpg" >
-File: gif/final_try-94.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-94.jpg" >
-File: gif/final_try-95.jpg Graphic file (type QTm)
- <use  "gif/final_try-95.jpg" >
-File: gif/final_try-96.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-96.jpg" >
-File: gif/final_try-97.jpg Graphic file (type QTm)
- <use  "gif/final_try-97.jpg" >
-File: gif/final_try-98.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-98.jpg" >
-File: gif/final_try-99.jpg Graphic file (type QTm)
- <use  "gif/final_try-99.jpg" >
-File: gif/final_try-100.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-100.jpg" >
-File: gif/final_try-101.jpg Graphic file (type QTm)
- <use  "gif/final_try-101.jpg" >
-File: gif/final_try-102.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-102.jpg" >
-File: gif/final_try-103.jpg Graphic file (type QTm)
- <use  "gif/final_try-103.jpg" >
-File: gif/final_try-104.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-104.jpg" >
-File: gif/final_try-105.jpg Graphic file (type QTm)
- <use  "gif/final_try-105.jpg" >
-File: gif/final_try-106.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-106.jpg" >
-File: gif/final_try-107.jpg Graphic file (type QTm)
- <use  "gif/final_try-107.jpg" >
-File: gif/final_try-108.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-108.jpg" >
-File: gif/final_try-109.jpg Graphic file (type QTm)
- <use  "gif/final_try-109.jpg" >
-File: gif/final_try-110.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-110.jpg" >
-File: gif/final_try-111.jpg Graphic file (type QTm)
- <use  "gif/final_try-111.jpg" >
-File: gif/final_try-112.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-112.jpg" >
-File: gif/final_try-113.jpg Graphic file (type QTm)
- <use  "gif/final_try-113.jpg" >
-File: gif/final_try-114.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-114.jpg" >
-File: gif/final_try-115.jpg Graphic file (type QTm)
- <use  "gif/final_try-115.jpg" >
-File: gif/final_try-116.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-116.jpg" >
-File: gif/final_try-117.jpg Graphic file (type QTm)
- <use  "gif/final_try-117.jpg" >
-File: gif/final_try-118.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-118.jpg" >
-File: gif/final_try-119.jpg Graphic file (type QTm)
- <use  "gif/final_try-119.jpg" >
-File: gif/final_try-120.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-120.jpg" >
-File: gif/final_try-121.jpg Graphic file (type QTm)
- <use  "gif/final_try-121.jpg" >
-File: gif/final_try-122.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-122.jpg" >
-File: gif/final_try-123.jpg Graphic file (type QTm)
- <use  "gif/final_try-123.jpg" >
-File: gif/final_try-124.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-124.jpg" >
-File: gif/final_try-125.jpg Graphic file (type QTm)
- <use  "gif/final_try-125.jpg" >
-File: gif/final_try-126.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-126.jpg" >
-File: gif/final_try-127.jpg Graphic file (type QTm)
- <use  "gif/final_try-127.jpg" >
-File: gif/final_try-128.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-128.jpg" >
-File: gif/final_try-129.jpg Graphic file (type QTm)
- <use  "gif/final_try-129.jpg" >
-File: gif/final_try-130.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-130.jpg" >
-File: gif/final_try-131.jpg Graphic file (type QTm)
- <use  "gif/final_try-131.jpg" >
-File: gif/final_try-132.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-132.jpg" >
-File: gif/final_try-133.jpg Graphic file (type QTm)
- <use  "gif/final_try-133.jpg" >
-File: gif/final_try-134.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-134.jpg" >
-File: gif/final_try-135.jpg Graphic file (type QTm)
- <use  "gif/final_try-135.jpg" >
-File: gif/final_try-136.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-136.jpg" >
-File: gif/final_try-137.jpg Graphic file (type QTm)
- <use  "gif/final_try-137.jpg" >
-File: gif/final_try-138.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-138.jpg" >
-File: gif/final_try-139.jpg Graphic file (type QTm)
- <use  "gif/final_try-139.jpg" >
-File: gif/final_try-140.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-140.jpg" >
-File: gif/final_try-141.jpg Graphic file (type QTm)
- <use  "gif/final_try-141.jpg" >
-File: gif/final_try-142.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-142.jpg" >
-File: gif/final_try-143.jpg Graphic file (type QTm)
- <use  "gif/final_try-143.jpg" >
-File: gif/final_try-144.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-144.jpg" >
-File: gif/final_try-145.jpg Graphic file (type QTm)
- <use  "gif/final_try-145.jpg" >
-File: gif/final_try-146.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-146.jpg" >
-File: gif/final_try-147.jpg Graphic file (type QTm)
- <use  "gif/final_try-147.jpg" >
-File: gif/final_try-148.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-148.jpg" >
-File: gif/final_try-149.jpg Graphic file (type QTm)
- <use  "gif/final_try-149.jpg" >
-File: gif/final_try-150.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-150.jpg" >
-File: gif/final_try-151.jpg Graphic file (type QTm)
- <use  "gif/final_try-151.jpg" >
-File: gif/final_try-152.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-152.jpg" >
-File: gif/final_try-153.jpg Graphic file (type QTm)
- <use  "gif/final_try-153.jpg" >
-File: gif/final_try-154.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-154.jpg" >
-File: gif/final_try-155.jpg Graphic file (type QTm)
- <use  "gif/final_try-155.jpg" >
-File: gif/final_try-156.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-156.jpg" >
-File: gif/final_try-157.jpg Graphic file (type QTm)
- <use  "gif/final_try-157.jpg" >
-File: gif/final_try-158.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-158.jpg" >
-File: gif/final_try-159.jpg Graphic file (type QTm)
- <use  "gif/final_try-159.jpg" >
-File: gif/final_try-160.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-160.jpg" >
-File: gif/final_try-161.jpg Graphic file (type QTm)
- <use  "gif/final_try-161.jpg" >
-File: gif/final_try-162.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-162.jpg" >
-File: gif/final_try-163.jpg Graphic file (type QTm)
- <use  "gif/final_try-163.jpg" >
-File: gif/final_try-164.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-164.jpg" >
-File: gif/final_try-165.jpg Graphic file (type QTm)
- <use  "gif/final_try-165.jpg" >
-File: gif/final_try-166.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-166.jpg" >
-File: gif/final_try-167.jpg Graphic file (type QTm)
- <use  "gif/final_try-167.jpg" >
-File: gif/final_try-168.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-168.jpg" >
-File: gif/final_try-169.jpg Graphic file (type QTm)
- <use  "gif/final_try-169.jpg" >
-File: gif/final_try-170.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-170.jpg" >
-File: gif/final_try-171.jpg Graphic file (type QTm)
- <use  "gif/final_try-171.jpg" >
-File: gif/final_try-172.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-172.jpg" >
-File: gif/final_try-173.jpg Graphic file (type QTm)
- <use  "gif/final_try-173.jpg" >
-File: gif/final_try-174.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-174.jpg" >
-File: gif/final_try-175.jpg Graphic file (type QTm)
- <use  "gif/final_try-175.jpg" >
-File: gif/final_try-176.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-176.jpg" >
-File: gif/final_try-177.jpg Graphic file (type QTm)
- <use  "gif/final_try-177.jpg" >
-File: gif/final_try-178.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-178.jpg" >
-File: gif/final_try-179.jpg Graphic file (type QTm)
- <use  "gif/final_try-179.jpg" >
-File: gif/final_try-180.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-180.jpg" >
-File: gif/final_try-181.jpg Graphic file (type QTm)
- <use  "gif/final_try-181.jpg" >
-File: gif/final_try-182.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-182.jpg" >
-File: gif/final_try-183.jpg Graphic file (type QTm)
- <use  "gif/final_try-183.jpg" >
-File: gif/final_try-184.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-184.jpg" >
-File: gif/final_try-185.jpg Graphic file (type QTm)
- <use  "gif/final_try-185.jpg" >
-File: gif/final_try-186.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-186.jpg" >
-File: gif/final_try-187.jpg Graphic file (type QTm)
- <use  "gif/final_try-187.jpg" >
-File: gif/final_try-188.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-188.jpg" >
-File: gif/final_try-189.jpg Graphic file (type QTm)
- <use  "gif/final_try-189.jpg" >
-File: gif/final_try-190.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-190.jpg" >
-File: gif/final_try-191.jpg Graphic file (type QTm)
- <use  "gif/final_try-191.jpg" >
-File: gif/final_try-192.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-192.jpg" >
-File: gif/final_try-193.jpg Graphic file (type QTm)
- <use  "gif/final_try-193.jpg" >
-File: gif/final_try-194.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-194.jpg" >
-File: gif/final_try-195.jpg Graphic file (type QTm)
- <use  "gif/final_try-195.jpg" >
-File: gif/final_try-196.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-196.jpg" >
-File: gif/final_try-197.jpg Graphic file (type QTm)
- <use  "gif/final_try-197.jpg" >
-File: gif/final_try-198.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-198.jpg" >
-File: gif/final_try-199.jpg Graphic file (type QTm)
- <use  "gif/final_try-199.jpg" >
-File: gif/final_try-200.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-200.jpg" >
-File: gif/final_try-201.jpg Graphic file (type QTm)
- <use  "gif/final_try-201.jpg" >
-File: gif/final_try-202.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-202.jpg" >
-File: gif/final_try-203.jpg Graphic file (type QTm)
- <use  "gif/final_try-203.jpg" >
-File: gif/final_try-204.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-204.jpg" >
-File: gif/final_try-205.jpg Graphic file (type QTm)
- <use  "gif/final_try-205.jpg" >
-File: gif/final_try-206.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-206.jpg" >
-File: gif/final_try-207.jpg Graphic file (type QTm)
- <use  "gif/final_try-207.jpg" >
-File: gif/final_try-208.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-208.jpg" >
-File: gif/final_try-209.jpg Graphic file (type QTm)
- <use  "gif/final_try-209.jpg" >
-File: gif/final_try-210.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-210.jpg" >
-File: gif/final_try-211.jpg Graphic file (type QTm)
- <use  "gif/final_try-211.jpg" >
-File: gif/final_try-212.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-212.jpg" >
-File: gif/final_try-213.jpg Graphic file (type QTm)
- <use  "gif/final_try-213.jpg" >
-File: gif/final_try-214.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-214.jpg" >
-File: gif/final_try-215.jpg Graphic file (type QTm)
- <use  "gif/final_try-215.jpg" >
-File: gif/final_try-216.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-216.jpg" >
-File: gif/final_try-217.jpg Graphic file (type QTm)
- <use  "gif/final_try-217.jpg" >
-File: gif/final_try-218.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-218.jpg" >
-File: gif/final_try-219.jpg Graphic file (type QTm)
- <use  "gif/final_try-219.jpg" >
-File: gif/final_try-220.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-220.jpg" >
-File: gif/final_try-221.jpg Graphic file (type QTm)
- <use  "gif/final_try-221.jpg" >
-File: gif/final_try-222.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-222.jpg" >
-File: gif/final_try-223.jpg Graphic file (type QTm)
- <use  "gif/final_try-223.jpg" >
-File: gif/final_try-224.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-224.jpg" >
-File: gif/final_try-225.jpg Graphic file (type QTm)
- <use  "gif/final_try-225.jpg" >
-File: gif/final_try-226.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-226.jpg" >
-File: gif/final_try-227.jpg Graphic file (type QTm)
- <use  "gif/final_try-227.jpg" >
-File: gif/final_try-228.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-228.jpg" >
-File: gif/final_try-229.jpg Graphic file (type QTm)
- <use  "gif/final_try-229.jpg" >
-File: gif/final_try-230.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-230.jpg" >
-File: gif/final_try-231.jpg Graphic file (type QTm)
- <use  "gif/final_try-231.jpg" >
-File: gif/final_try-232.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-232.jpg" >
-File: gif/final_try-233.jpg Graphic file (type QTm)
- <use  "gif/final_try-233.jpg" >
-File: gif/final_try-234.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-234.jpg" >
-File: gif/final_try-235.jpg Graphic file (type QTm)
- <use  "gif/final_try-235.jpg" >
-File: gif/final_try-236.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-236.jpg" >
-File: gif/final_try-237.jpg Graphic file (type QTm)
- <use  "gif/final_try-237.jpg" >
-File: gif/final_try-238.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-238.jpg" >
-File: gif/final_try-239.jpg Graphic file (type QTm)
- <use  "gif/final_try-239.jpg" >
-File: gif/final_try-240.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-240.jpg" >
-File: gif/final_try-241.jpg Graphic file (type QTm)
- <use  "gif/final_try-241.jpg" >
-File: gif/final_try-242.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-242.jpg" >
-File: gif/final_try-243.jpg Graphic file (type QTm)
- <use  "gif/final_try-243.jpg" >
-File: gif/final_try-244.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-244.jpg" >
-File: gif/final_try-245.jpg Graphic file (type QTm)
- <use  "gif/final_try-245.jpg" >
-File: gif/final_try-246.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-246.jpg" >
-File: gif/final_try-247.jpg Graphic file (type QTm)
- <use  "gif/final_try-247.jpg" >
-File: gif/final_try-248.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-248.jpg" >
-File: gif/final_try-249.jpg Graphic file (type QTm)
- <use  "gif/final_try-249.jpg" >
-File: gif/final_try-250.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-250.jpg" >
-File: gif/final_try-251.jpg Graphic file (type QTm)
- <use  "gif/final_try-251.jpg" >
-File: gif/final_try-252.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-252.jpg" >
-File: gif/final_try-253.jpg Graphic file (type QTm)
- <use  "gif/final_try-253.jpg" >
-File: gif/final_try-254.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-254.jpg" >
-File: gif/final_try-255.jpg Graphic file (type QTm)
- <use  "gif/final_try-255.jpg" >
-File: gif/final_try-256.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-256.jpg" >
-File: gif/final_try-257.jpg Graphic file (type QTm)
- <use  "gif/final_try-257.jpg" >
-File: gif/final_try-258.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-258.jpg" >
-File: gif/final_try-259.jpg Graphic file (type QTm)
- <use  "gif/final_try-259.jpg" >
-File: gif/final_try-260.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-260.jpg" >
-File: gif/final_try-261.jpg Graphic file (type QTm)
- <use  "gif/final_try-261.jpg" >
-File: gif/final_try-262.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-262.jpg" >
-File: gif/final_try-263.jpg Graphic file (type QTm)
- <use  "gif/final_try-263.jpg" >
-File: gif/final_try-264.jpg Graphic file (type QTm)
-
-<use  "gif/final_try-264.jpg" >
-File: gif/final_try-265.jpg Graphic file (type QTm)
- <use  "gif/final_try-265.jpg" >
-Overfull \hbox (0.4pt too wide) in paragraph at lines 137--137
-[][]  
- []
-
-
-Overfull \vbox (11.55415pt too high) detected at line 137
- []
-
-[10
-
-]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\translate ' on input line 139.
+(hyperref)                removing `\translate ' on input line 208.
 
 File: ../figures/jacobiConstantEMSys.png Graphic file (type QTm)
-<use  "../figures/jacobiConstantEMSys.png" > [11
+<use  "../figures/jacobiConstantEMSys.png" > [10
 
 ]
-Package atenddvi Info: Last page = 12.
- [12
+Package atenddvi Info: Last page = 11.
+ [11
 
 ]
 \tf@nav=\write6
@@ -3226,20 +2615,20 @@ Package atenddvi Info: Last page = 12.
 \tf@snm=\write8
 \openout8 = `demo.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 185.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 185.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 291.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 291.
  (./demo.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 185.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 185.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 185.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 291.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 291.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 291.
  ) 
 Here is how much of TeX's memory you used:
- 51331 strings out of 493638
- 1141287 string characters out of 6146796
- 1589209 words of memory out of 5000000
- 53333 multiletter control sequences out of 15000+600000
- 9880 words of font info for 59 fonts, out of 8000000 for 9000
+ 51774 strings out of 493638
+ 1161255 string characters out of 6146796
+ 1594625 words of memory out of 5000000
+ 54011 multiletter control sequences out of 15000+600000
+ 9888 words of font info for 60 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 71i,13n,95p,10434b,727s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,13n,95p,10413b,791s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on demo.pdf (12 pages).
+Output written on demo.pdf (11 pages).

@@ -1,0 +1,15 @@
+- Second meeting - 10/10/17 - Hodei connecting in via Skype
+	- Discuss work done in previous week:
+		- Single-shooting MATLAB code
+		- Presentation slides
+	- Discuss upcoming project plan presentation and report
+		- Went through slides created for the presentation on 17/10/17
+		- Suggested improvements:
+			- Remove several slides to stay within time restriction
+			- Add project scope, objectives, aims and Gantt chart
+	- Decide work for next meeting:
+		- Testing robustness of initial guess in single-shooting code
+		- Test stability of found orbits in single-shooting code
+		- Finalise presentation
+		- Re-cover mathematical derivations (left from last week)
+	- Alex to look at Lyceum supercomputer access.

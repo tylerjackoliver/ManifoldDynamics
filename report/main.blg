@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: plainnat.bst
+Database file #1: ref.bib.bib
+Repeated entry---line 198 of file ref.bib.bib
+ : @article{Belbruno1993
+ :                      ,
+I'm skipping whatever remains of this entry
+Warning--empty publisher in Euler1736
+Warning--empty publisher in Hill1906
+Warning--empty institution in Lagrange
+Warning--there's a number but no volume in Parker2014
+You've used 12 entries,
+            2773 wiz_defined-function locations,
+            680 strings with 6864 characters,
+and the built_in function-call counts, 4377 in all, are:
+= -- 391
+> -- 184
+< -- 12
++ -- 66
+- -- 54
+* -- 288
+:= -- 704
+add.period$ -- 45
+call.type$ -- 12
+change.case$ -- 50
+chr.to.int$ -- 12
+cite$ -- 28
+duplicate$ -- 241
+empty$ -- 395
+format.name$ -- 74
+if$ -- 911
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 16
+newline$ -- 77
+num.names$ -- 48
+pop$ -- 117
+preamble$ -- 1
+purify$ -- 42
+quote$ -- 0
+skip$ -- 170
+stack$ -- 0
+substring$ -- 93
+swap$ -- 18
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 107
+warning$ -- 4
+while$ -- 43
+width$ -- 0
+write$ -- 171
+(There was 1 error message)

@@ -1,0 +1,83 @@
+\begin{thebibliography}{12}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Belbruno(2004)]{Belbruno2004}
+Edward Belbruno.
+\newblock \emph{{Capture Dynamics and Chaotic Motions in Celestial Mechanics}}.
+\newblock Princeton University Press, 2004.
+\newblock ISBN 9780691094809.
+\newblock URL
+  \url{http://books.google.com/books?id=dK-fl0KrOEIC{\&}printsec=frontcover{\&}dq=inauthor:belbruno+edward+intitle:capture+dynamics+mechanics{\&}hl={\&}cd=1{\&}source=gbs{\_}api{\%}0Apapers3://publication/uuid/E741F89D-B997-41AB-98B7-330501816B46}.
+
+\bibitem[Belbruno and Miller(1993)]{Belbruno1993}
+Edward Belbruno and James Miller.
+\newblock {Sun-perturbed Earth-to-moon transfers with ballistic capture}.
+\newblock \emph{Journal of Guidance Control and Dynamics 16}, 1993.
+
+\bibitem[Euler(1736)]{Euler1736}
+Leonhard Euler.
+\newblock \emph{{Mechanica sive motus scientia analytice exposita}}.
+\newblock 1736.
+
+\bibitem[Hill(1906)]{Hill1906}
+George Hill.
+\newblock \emph{{Collected Mathematical Works}}.
+\newblock 1906.
+
+\bibitem[Jacobi(1829)]{Jacobi1829}
+C~G~J Jacobi.
+\newblock {Fundamenta Nova Theoriae Functionum Ellipticarum}.
+\newblock \emph{Regiomonti, Sumtibus fratrum Borntr\"ager}, page 189, 1829.
+
+\bibitem[Lagrange(1772)]{Lagrange}
+Joseph-Louis Lagrange.
+\newblock {Essai sur le probl\'eme des trois corps}.
+\newblock Technical report, 1772.
+
+\bibitem[Luo and Topputo(2015)]{Luo2015}
+Z.~F. Luo and F.~Topputo.
+\newblock {Analysis of ballistic capture in Sun-planet models}.
+\newblock \emph{Advances in Space Research}, 2015.
+\newblock ISSN 18791948.
+\newblock \doi{10.1016/j.asr.2015.05.042}.
+
+\bibitem[Parker and Anderson(2014)]{Parker2014}
+Jeffrey~S. Parker and Rodney~L. Anderson.
+\newblock {Low-Energy Lunar Trajectory Design}.
+\newblock \emph{Low-Energy Lunar Trajectory Design}, \penalty0 (July):\penalty0
+  1--396, 2014.
+\newblock \doi{10.1002/9781118855065}.
+
+\bibitem[Poincar{\'{e}}(1899)]{Poincare1899}
+H.~Poincar{\'{e}}.
+\newblock \emph{{Les M{\'{e}}thodes Nouvelles de la M{\'{e}}canique
+  C{\'{e}}leste}}.
+\newblock Gauthier-Villars, 1899.
+
+\bibitem[S{\'{a}}nchez and {Garc{\'{i}}a Y{\'{a}}rnoz}(2016)]{Sanchez2016}
+Joan~Pau S{\'{a}}nchez and Daniel {Garc{\'{i}}a Y{\'{a}}rnoz}.
+\newblock {Asteroid retrieval missions enabled by invariant manifold dynamics}.
+\newblock \emph{Acta Astronautica}, 127:\penalty0 667--677, 2016.
+\newblock ISSN 00945765.
+\newblock \doi{10.1016/j.actaastro.2016.05.034}.
+
+\bibitem[Szebehely(1967)]{theoryoforbits}
+Victor~G. Szebehely.
+\newblock \emph{Theory of Orbits - The Restricted Problem of Three Bodies}.
+\newblock Academic Press, 1967.
+
+\bibitem[Topputo et~al.(2005)Topputo, Vasile, and
+  Bernelli-Zazzera]{Topputo2005}
+Francesco Topputo, Massimiliano Vasile, and Franco Bernelli-Zazzera.
+\newblock {Earth-to-moon low energy transfers targeting L1 hyperbolic transit
+  orbits}.
+\newblock \emph{Annals of the New York Academy of Sciences}, 1065:\penalty0
+  55--76, 2005.
+\newblock ISSN 00778923.
+\newblock \doi{10.1196/annals.1370.025}.
+
+\end{thebibliography}

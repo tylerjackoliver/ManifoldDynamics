@@ -15,5 +15,6 @@
 \contentsline {section}{\numberline {3.4}Construction of a Periodic Orbit using Differential Correction}{21}{section.3.4}
 \contentsline {subsection}{\numberline {3.4.1}Establishing the differential correction routines}{21}{subsection.3.4.1}
 \contentsline {subsection}{\numberline {3.4.2}Implementation of the techniques for orbit construction}{23}{subsection.3.4.2}
-\contentsline {chapter}{\numberline {4}Introduction to Manifold Structures}{26}{chapter.4}
-\contentsline {chapter}{References}{27}{chapter*.12}
+\contentsline {subsection}{\numberline {3.4.3}Single-shooting in three dimensions}{25}{subsection.3.4.3}
+\contentsline {chapter}{\numberline {4}Introduction to Manifold Structures}{27}{chapter.4}
+\contentsline {chapter}{References}{28}{chapter*.12}

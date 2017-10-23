@@ -1,9 +1,7 @@
 \frametitle{Introduction to Manifolds}
-\small If we integrate orbits that exponentially approach and depart a certain periodic orbit in the CR3BP, we discover manifold tubes...
+\small One dynamical phenomenon, manifold tubes -- orbits that approach and depart a periodic orbit in the CR3BP -- can be exploited to give new ways of transferring matter in phase space
 ^^I\begin{figure}
 ^^I^^I\centering
 ^^I^^I\includegraphics[height=.4\textheight]{manifolds}
 ^^I^^I\caption{\small Stable (green) and unstable (red) invariant manifolds associated to Earth-Moon L1. Source: Renkli Seyler, \url{https://renklisheyler.wordpress.com/research/motions-in-cr3bp/invariant-manifold-tubes/}}
 ^^I\end{figure}
-^^I\small ...exploiting these dynamical phenomena can give rise to interesting applications
-

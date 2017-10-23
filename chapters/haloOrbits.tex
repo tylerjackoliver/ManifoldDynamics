@@ -333,6 +333,8 @@ we obtain a solution in terms of $k$, $c_2$ and $\lambda$, referenced in \ref{eq
 	\frac{1}{2\lambda} \left( \lambda^2 + 1 + 2c_2 \right)
 \end{equation}
 
+
+
 \noindent and $c_2$ is equal to:
 
 \begin{equation}
@@ -351,6 +353,55 @@ we obtain a solution in terms of $k$, $c_2$ and $\lambda$, referenced in \ref{eq
 	v_y = \frac{\textnormal{d}}{\textnormal{d}t} \left(kA_x\sin{\lambda s + \psi}\right) = kA_x\lambda
 \end{equation}
 
+\subsection{Single-shooting in three dimensions}
+
+After having computed the case for planar motion, with the Jacobian and equations of motion restricted, we now visit the more complex case of single-shooting orbtis in three dimensions. Using the full form of the Jacobian, as in \ref{eq:jacobianequation}, we suppose we have some state $\bar X\left(t_0\right)$ that is of a simple periodic orbit about $y = 0$ plane crossing with $\dot{y} > 0$. Similarly, at time $t = T/2$ we obtain another state $\bar X\left(t_{T/2}\right)$ that contains another $y = 0$ plane crossing with $\dot{y} < 0$. As in \cite{Parker2014}, for the orbit to be symmetric we require the following state:
+
+\[
+	\bar X\left(t_0\right) = [x_0;\hspace{1pt} 0;\hspace{1pt} z_0; \hspace{1pt};\hspace{1pt};\hspace{1pt};\hspace{1pt} 0;\hspace{1pt};\hspace{1pt}; \hspace{1pt} \dot{y}_0 0]^T
+\]
+
+and
+
+\[
+		\bar X\left(t_{T/2}\right) = [x_{T/2};\hspace{1pt} 0;\hspace{1pt} z_{T/2};\hspace{1pt} 0; \hspace{1pt}\dot{y}_{T/2};\hspace{1pt} 0]^T
+\]
+
+\noindent Assuming we have some initial guess that results in some state $\bar X\prime$ at the x-axis crossing, we wish to correct to a proper state by varying initial values of $x, z$, and perhaps $\dot{y}$. We report the linearized system of equations that relates the final to initial state:
+
+\[
+	\delta \bar X\left(t_{T/2}\right) \approx \Phi\left(t_{T/2};t_0\right) \delta\bar X\left(t_0\right) + \frac{\partial\bar X}{\partial t} \delta\left(T/2\right)
+\]
+
+\noindent with $\delta\left(\phi\right)$ representing the change in some property $\phi$. Considering the desired change in the final state's components, we set 
+
+%\[
+%	\delta\bar \left(t_{T/2}\right) = [\delta x_{T/2}; \hspace{1pt} 0; \hspace{1pt} \delta z_{T/2}; \hspace{1pt} -\dot{x}_{T/2}; \hspace{1pt} \delta\dot{y}_{T/2}; \hspace{1pt} -\dot{z}_{T/2}]^T
+%\]
+
+\noindent and to the restrict the search to simple periodic symmetric orbits, we alter Equation \ref{eq:fulldc3dof} to be:
+
+\[
+	\delta \bar X \left( t_0 \right) = [\delta x_0; \hspace{1pt} 0; \delta z_0; \hspace{1pt}; \delta\dot{y}_0; \hspace{1pt} 0]^T
+\]
+
+The full derivation is reported in \citep{Parker2014}; for conciseness, only the final corrections are reported here:
+
+\[
+	\begin{bmatrix}
+		\delta z_0 \\
+		\delta \dot{y}_0
+	\end{bmatrix}
+	=
+	\begin{bmatrix}
+		\phi_{43} - \phi_{23} \frac{\ddot{x}}{\dot{y}} & \phi_{45} - \phi_{25}\frac{\ddot{x}}{\dot{y}} \\
+		\phi_{63} - \phi_{23} \frac{\ddot{z}}{\dot{y}} & \phi_{65} - \phi_{25}\frac{\ddot{z}}{\dot{y}}
+	\end{bmatrix}
+	\begin{bmatrix}
+		-\dot{x}_{T/2}\\
+		-\dot{z}_{T/2}
+	\end{bmatrix}
+\]
 
 \begin{figure}
 \centering

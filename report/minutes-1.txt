@@ -1,0 +1,5 @@
+- Initial meeting with Alex & Hodei - 5/10/17
+	- Introduction & discussion of project scope and plans
+	- Covering work done over summer, and potential avenues of interest for the final report
+	- Outlining work before next meeting: attempt finding some closed orbits, and re-visit mathematics covered over summer
+
